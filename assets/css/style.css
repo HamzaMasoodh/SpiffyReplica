@@ -1,0 +1,272 @@
+* {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+.link-dark {
+	color: black !important;
+	text-transform: none;
+}
+.link-dark:hover {
+	color: red !important;
+}
+.dropdown-menu{
+  font-family: 'Poppins',sans-serif;
+  color: #415161;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span {
+  font-family: 'Poppins',sans-serif;
+  color: #415161;
+}
+a.nav-link , a.dropdown-item {
+	text-transform: uppercase;
+	color: #415161;
+}
+span.navbar-toggler-icon{
+  background-color: #415161;
+ 
+}
+a{
+  text-decoration: none;
+}
+li {
+  font-family: 'Poppins',sans-serif;
+  list-style: none;
+  color: #415161;
+}
+.line-1{
+  margin-top: 120px;
+  max-width: 70px;
+  margin: 2rem auto;
+  border-bottom: 3px solid red;
+  background-color: red;
+}
+.line-2{
+  padding-top: -20px;
+
+  max-width: 70px;
+  margin: 2rem auto;
+  border-bottom: 3px solid red;
+  background-color: red;
+}
+a.nav-link , a.dropdown-item {
+  
+  margin-left:20px;
+  margin-right:20px;
+	text-transform: uppercase;
+	color: #415161;
+}
+a.nav-link:hover , a.active {
+	color: #ff5151;
+}
+header.top {
+  font-size: 14px;
+	padding: 15px 30px 20px 60px;
+}
+a.nav-link:hover , a.active {
+	color: #ff5151;
+}
+ul>li>a:hover {
+	color: #ff5151;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.text-2{
+  color:#415161;
+  font-size: 60px;
+  font-weight: 600;
+}
+.text-1{
+  font-size: 17px;
+  font-weight: 600;
+}
+.text-3{
+  font-size: 1rem;
+  font-weight: 400;
+}
+.get-btn{
+  background-color: #ff5151;
+  border-color: #ff5151;
+  color: white;
+}
+
+.navbar-dark .navbar-toggler {
+  color: rgba(255,255,255,.55);
+  border-color: rgba(255,255,255,.1);
+}
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: red;
+  border: 1px solid rgb(167, 79, 79);
+  border-radius: 0.25rem;
+  transition: box-shadow .15s ease-in-out;
+}
+.category-section{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 17px;
+  font-weight: 600;
+}
+.featured-product-section h2{
+  font-size: 1em;
+  font-weight: 600;
+}
+.featured-product-section p{
+  font-size: .85em;
+  opacity: .6;
+}
+.featured-product-section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.loved-products-section h2{
+  font-size: 1em;
+  font-weight: 600;
+}
+.loved-products-section p{
+  font-size: .85em;
+  opacity: .6;
+}
+
+.loved-products-section{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.divider{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.sponsor-section{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.logo-1{
+  opacity: 0.45;
+  height: auto;
+}
+.logo-1:hover{
+  opacity: 1;
+}
+footer{
+  background-color: #313131;
+}
+.footerupper h3{
+  color: white;
+
+}
+.footerupper h4{
+  color: white;
+
+}
+.footerupper p{
+  color: #313131
+}
+
+.promotion-section{
+  background-image: url("../media/images/banner-02.jpg");
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  background-size: cover;
+}
+.text-promo-1{
+  font-size: 2rem;
+  font-weight: 600;
+  
+}
+.text-promo-2{
+  font-size: 2.2666666666667rem;
+  font-weight: 600;
+}
+.text-promo-3{
+  font-size: 2rem;
+  font-weight: 600;
+}
+.promo-2{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin-left: 90px;
+}
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  color: #808285;
+}
+
+p.footer {
+	padding: 0px 0px 20px 0px;
+	margin: 0px 0px 0px 0px;
+  color:rgba(255,255,255,0.63);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+div.footerupper {
+	padding: 0px 0px 0px 0px;
+}
+.col-sm-3 {
+	padding-top: 50px;
+}
+
+p.footertext {
+	color: rgba(255,255,255,0.63);
+	font-weight: normal;
+	font-size: 15px;
+}
+h3.footer {
+	padding-bottom: 30px;
+	font-size: 25px;
+}
+h3.footer1 {
+	padding-bottom: 30px;
+	font-size: 23px;
+}
+img.footer{
+  padding-bottom: 40px;
+}
+
+footer a{
+  color: rgba(255,255,255,0.63);
+  text-decoration: none;
+  
+}
+.review-1{
+  border-radius: 25px;
+  height: 399px;
+  width: 398px;
+}
+.review-text{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-weight: 400;
+  color: #808285;;
+}
+.review-star{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.client-name{
+  font-size: 1rem;
+  font-weight: 400;
+  color: #808285;
+  padding-top: 20px;
+}
+
+
+
+
